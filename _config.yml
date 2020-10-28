@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Matrimony Made Easy
+    description                           : Ghotok is a matrimony app for Bangladesh that's focused on digitizing the traditional way of matchmaking!
+    fontawesome_icon_name                 : heart
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Match Seekers
+    description                           : A match seeker can be a family member, family friend, yourself, or any other "ghotoks" recommended by the family! The easy-to-use experience we offer allows match seekers to focus on the important stuff: finding the perfect match!
+    fontawesome_icon_name                 : user-friends
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Traditional Values
+    description                           : Ghotok focuses on respecting traditional family values, and allow the whole family to participate in the search for the perfect match, which is something other apps and services on the market don't support!
+    fontawesome_icon_name                 : layer-group
 
 
 
