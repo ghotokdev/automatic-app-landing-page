@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Matrimony Made Easy
-    description                           : Ghotok is a matrimony app for Bangladesh that's focused on digitizing the traditional way of matchmaking!
+    description                           : "Ghotok is a matrimony app for Bangladesh that's focused on digitizing the traditional way of matchmaking!"
     fontawesome_icon_name                 : heart
     
   - title                                 : Match Seekers
-    description                           : A match seeker can be a family member, family friend, yourself, or any other ghotoks recommended by the family! The easy-to-use experience we offer allows match seekers to focus on the important stuff: finding the perfect match!
+    description                           : "A match seeker can be a family member, family friend, yourself, or any other ghotoks recommended by the family! The easy-to-use experience we offer allows match seekers to focus on the important stuff: finding the perfect match!"
     fontawesome_icon_name                 : user-friends
 
   - title                                 : Traditional Values
-    description                           : Ghotok focuses on respecting traditional family values, and allow the whole family to participate in the search for the perfect match, which is something other apps and services on the market don't support!
+    description                           : "Ghotok focuses on respecting traditional family values, and allow the whole family to participate in the search for the perfect match, which is something other apps and services on the market don't support!"
     fontawesome_icon_name                 : layer-group
 
 
