@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Cookie Policy
+title: Privacy Policy
 include_in_header: false
 ---
 
