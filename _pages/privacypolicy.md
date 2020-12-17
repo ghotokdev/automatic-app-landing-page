@@ -111,7 +111,7 @@ Legitimate interests: We may use your information where we have legitimate inter
 Consent: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time by contacting us at the address provided at the end of this Privacy Policy.
 
 ## 6. How We Share Information
-Since our goal is to help you make meaningful connections, the main sharing of users’ information is, of course, with other users. We also share some users’ information with service providers and partners who assist us in operating the services, with other Match Group companies and, in some cases, legal authorities. Read on for more details about how your information is shared with others.
+Since our goal is to help you make meaningful connections, the main sharing of users’ information is, of course, with other users. We also share some users’ information with service providers and partners who assist us in operating the services, with other Ghotok companies and, in some cases, legal authorities. Read on for more details about how your information is shared with others.
 
 With other users
 You share information with other users when you voluntarily disclose information on the service (including your public profile). Please be careful with your information and make sure that the content you share is stuff that you’re comfortable being publically viewable since neither you nor we can control what others do with your information once you share it.
@@ -125,12 +125,12 @@ We may also share information with partners who distribute and assist us in adve
 
 We follow a strict vetting process prior to engaging any service provider or working with any partner. All of our service providers and partners must agree to strict confidentiality obligations.
 
-With other Match Group businesses
-Ghotok is part of the Match Group family of businesses which, as of the date of this Privacy Policy, includes websites and apps such as Ghotok, OkCupid, Plenty of Fish, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito, and Twoo (for more details, click here).
+With other Ghotok businesses
+Ghotok is part of the Ghotok family of businesses which, as of the date of this Privacy Policy, includes websites and apps such as Ghotok, OkCupid, Plenty of Fish, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito, and Twoo (for more details, click here).
 
-We share your information with other Match Group companies for them to assist us in processing your information, as service providers, upon our instructions and on our behalf. Assistance provided by other Match Group companies may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, finance and accounting assistance, better understanding how our service is used and users’ behavior to improve our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings.
+We share your information with other Ghotok companies for them to assist us in processing your information, as service providers, upon our instructions and on our behalf. Assistance provided by other Ghotok companies may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, finance and accounting assistance, better understanding how our service is used and users’ behavior to improve our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings.
 
-We may also share information with other Match Group companies for legitimate business purposes such as corporate audit, analysis and consolidated reporting as well as compliance with applicable laws. We may also share user information with other Match Group companies to remove users who violate our terms of service, or have been reported for criminal activity and/or bad behavior. In some instances, we may remove that user from all platforms.
+We may also share information with other Ghotok companies for legitimate business purposes such as corporate audit, analysis and consolidated reporting as well as compliance with applicable laws. We may also share user information with other Ghotok companies to remove users who violate our terms of service, or have been reported for criminal activity and/or bad behavior. In some instances, we may remove that user from all platforms.
 
 For corporate transactions
 We may transfer your information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control.
@@ -144,7 +144,7 @@ We may also share information: (i) if disclosure would mitigate our liability in
 With your consent or at your request
 We may ask for your consent to share your information with third parties. In any such case, we will make it clear why we want to share the information.
 
-We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our Cookie Policy
+We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Ghotok companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our Cookie Policy
 
 ## . Cross-Border Data Transfers
 Sharing of information laid out in Section 6 sometimes involves cross-border data transfers, for instance to the United States of America and other jurisdictions. As an example, where the service allows for users to be located in the European Economic Area (“EEA”), their personal information is transferred to countries outside of the EEA. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries. Standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data
@@ -201,6 +201,3 @@ Because we’re always looking for new and innovative ways to help you build mea
 If you have questions about this Privacy Policy, here’s how you can reach us:
 
 ghotokdev@gmail.com 
-
-
-
