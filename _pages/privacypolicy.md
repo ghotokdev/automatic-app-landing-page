@@ -26,6 +26,7 @@ This Privacy Policy applies beginning December 25, 2020.
 
 ## 1. Who We Are
 Ghotok
+
 ghotokdev@gmail.com
 
 ## 2. Where This Privacy Policy Applies
