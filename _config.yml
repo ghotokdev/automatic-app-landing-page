@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Ghotok                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The matrimony app by Bangladeshis, for Bangladeshis
+app_description                           : The matrimony app for Bangladeshis, by Bangladeshis
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -39,11 +39,11 @@ features                                  :
     fontawesome_icon_name                 : heart
     
   - title                                 : Match Seekers
-    description                           : "A match seeker can be a family member, family friend, yourself, or any other ghotoks recommended by the family! The easy-to-use experience we offer allows match seekers to focus on the important stuff: finding the perfect match!"
+    description                           : "A match seeker can be a family member, family friend, yourself, or any other ghotoks recommended by the family! Ghotoks can create a profile for the bachelor they are represnting, and use our services to find the perfect match for them!"
     fontawesome_icon_name                 : user-friends
 
   - title                                 : Traditional Values
-    description                           : "Ghotok focuses on respecting traditional family values, and allows the whole family to participate in the search for the perfect match, which is something other apps and services on the market don't support!"
+    description                           : "Ghotok focuses on respecting traditional family values, and allows the whole family to participate in the search for the perfect match, which is something other apps and services on the market don't support! Sign up now to start matchmaking!"
     fontawesome_icon_name                 : layer-group
 
 
