@@ -14,17 +14,17 @@ Ghotok is committed to protecting your privacy. We aim to provide trustworthy, i
 
 This Cookie Policy explains what cookies are, what types of cookies are placed on your device when you visit our website and app and how we use them.
 
-This Cookie Policy does not address how we deal with your personal information generally. To learn more about how we process your personal information, please see our Privacy Policy.
+This Cookie Policy does not address how we deal with your personal information generally. To learn more about how we process your personal information, please see our [Privacy Policy](https://www.ghotok.app/privacypolicy/).
 
 
 ## What are cookies?
 Cookies are small text files that are sent to or accessed from your web browser or your device’s memory. A cookie typically contains the name of the domain (internet location) from which the cookie originated, the “lifetime” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier. A cookie also may contain information about your device, such as user settings, browsing history and activities conducted while using our services.
 
 ## Are there different types of cookies?
-First-party and third-party cookies
+### First-party and third-party cookies
 There are first-party cookies and third-party cookies. First-party cookies are placed on your device directly by us. Third-party cookies are placed on your device by our partners and service providers.
 
-## Session and persistent cookies
+### Session and persistent cookies
 There are session cookies and persistent cookies. Session cookies only last until you close your app. We use session cookies for a variety of reasons, including to learn more about your use of our app during one single browser session and to help you to use our app more efficiently. Persistent cookies have a longer lifespan and aren't automatically deleted when you close your browser. These types of cookies are primarily used to help you quickly sign-in to our app again and for analytical purposes.
 
 ## What about other tracking technologies?
