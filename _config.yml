@@ -38,12 +38,12 @@ features                                  :
     description                           : "Ghotok is a matrimony app that's focused on digitizing the traditional way of matchmaking in Bangladesh! Download now and start the search for your perfect partner today!"
     fontawesome_icon_name                 : heart
     
-  - title                                 : Match Seekers
-    description                           : "A match seeker can be a family member, family friend, yourself, or any other ghotoks recommended by the family! Ghotoks can create a profile for the bachelor they are representing, and use our services to find the perfect match for them!"
+  - title                                 : Perfect Match
+    description                           : "Become a match seeker and explore thousands of biodata, filtering based on your preferences, and start the journey of finding your perfect match!"
     fontawesome_icon_name                 : user-friends
 
   - title                                 : Traditional Values
-    description                           : "Ghotok focuses on respecting traditional family values, and allows the whole family to participate in the search for the perfect match, which is something other apps and services on the market don't support! Sign up now to start matchmaking!"
+    description                           : "Ghotok focuses on respecting traditional family values, and uses terminology familiar to traditional Bangladeshi matchmakers to create a seamless experience. Sign up now to start matchmaking!"
     fontawesome_icon_name                 : layer-group
 
 
