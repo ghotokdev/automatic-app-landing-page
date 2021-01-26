@@ -9,7 +9,7 @@ include_in_header: false
 
 # Terms of Use
 
-The terms (“us”, “we”, the “Company” or “Ghotok”) refer to Ghotok.
+The terms (“us”, “we”, the “Company” or “Ghotok”) refer to Ghotok. This document also serves as our End-user license agreement (EULA) and Terms of Service.
 
 ## 1. Acceptance of Terms of Use Agreement
 By creating a Ghotok account, whether through a mobile device, mobile application or computer (collectively, the “Service”) you agree to be bound by (i) these Terms of Use, (ii) our Privacy Policy, Cookie Policy, Arbitration Procedures (if applicable to you) and Safety Tips, each of which is incorporated by reference into this Agreement, and (iii) any terms disclosed and agreed to by you if you purchase additional features, products or services we offer on the Service (collectively, this "Agreement"). If you do not accept and agree to be bound by all of the terms of this Agreement, please do not use the Service.
@@ -96,7 +96,9 @@ Ghotok reserves the right to investigate and/ or terminate your account without 
 
 
 ## 9. Other Members' Content
-Although Ghotok reserves the right to review and remove Content that violates this Agreement, such Content is the sole responsibility of the member who posts it, and Ghotok cannot guarantee that all Content will comply with this Agreement. If you see Content on the Service that violates this Agreement, please report it within the Service.
+Although Ghotok reserves the right to review and remove Content that violates this Agreement, such Content is the sole responsibility of the member who posts it, and Ghotok cannot guarantee that all Content will comply with this Agreement. If you see Content on the Service that violates this Agreement, please report it within the Service using our mechanism for flagging objectionable content and blocking abusive users.
+
+By signing up for Ghotok, you acknowledge that you are not allowed to create objectionable content or inappropiate content on our platform. Ghotok has no tolerance for objectionable content or abusive users. Users who are found to be creating offending content will be ejected and the content removed upon being reported.
 
 ## 10. Notice and Procedure for Making Claims of Copyright Infringement
 If you believe that your work has been copied and posted on the Service in a way that constitutes copyright infringement, please contact us with
