@@ -62,4 +62,4 @@ https://sentry.io/
 ## How to contact us?
 If you have questions about this Cookie Policy, here’s how you can reach us:
 
-ghotokdev@gmail.com
+support@ghotok.app

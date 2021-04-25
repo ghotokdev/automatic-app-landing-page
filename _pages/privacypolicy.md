@@ -29,7 +29,7 @@ This Privacy Policy applies beginning December 25, 2020.
 
 Ghotok
 
-ghotokdev@gmail.com
+support@ghotok.app
 
 ## 2. Where This Privacy Policy Applies
 
@@ -227,4 +227,4 @@ Because we’re always looking for new and innovative ways to help you build mea
 ## 12. How to Contact Us
 
 If you have questions about this Privacy Policy, here’s how you can reach us:
-ghotokdev@gmail.com
+support@ghotok.app
