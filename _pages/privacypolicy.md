@@ -29,6 +29,8 @@ This Privacy Policy applies beginning December 25, 2020.
 
 Ghotok
 
+Owned and operated by Hawk Apps LLC.
+
 support@ghotok.app
 
 ## 2. Where This Privacy Policy Applies
