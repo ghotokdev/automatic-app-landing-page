@@ -39,11 +39,11 @@ features                                  :
     fontawesome_icon_name                 : heart
     
   - title                                 : Perfect Match
-    description                           : "Become a match seeker and explore thousands of biodata, filtering based on your preferences, and start the journey of finding your perfect match!"
-    fontawesome_icon_name                 : user-friends
+    description                           : "Stop swiping through profiles aimlessly and use our extensive filters to find exactly the kind of partner you want in your life!"
+    fontawesome_icon_name                 : filter
 
-  - title                                 : Traditional Values
-    description                           : "Ghotok focuses on respecting traditional family values, and uses terminology familiar to traditional Bangladeshi matchmakers to create a seamless experience. Sign up now to start matchmaking!"
+  - title                                 : For Bangladesh
+    description                           : "Ghotok is designed and developed by Bangladeshi founders, for Bangladeshi people. Sign up now to start matchmaking!"
     fontawesome_icon_name                 : layer-group
 
 
